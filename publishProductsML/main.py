@@ -119,7 +119,7 @@ def upload_product(access_token, product):
 # access_token = autenticar('2447922089667594', 'Ku613zfb4mRoVKSM1ZS5y5IQG6NmmU1z',
 # 'TG-657a1ec174bb6e0001f12ed8-578324692', 'https://cminox.com')
 
-access_token = 'APP_USR-5790996786516740-121517-394aa1733ec9efed10c474b3aa3d708e-578324692'
+access_token = 'APP_USR-5790996786516740-121914-d6461e3b33fca5e81b1be588961aee0d-578324692'
 df_productos = leer_excel('productos.xlsx')
 
 for index, producto in df_productos.iterrows():
